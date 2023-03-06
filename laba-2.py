@@ -47,19 +47,7 @@ for i in a:
 
 
     
-    
-    #if len(a) == 0:
-     #   print('В файле нет подходящих чисел')
-
-  
-#    print('Список чисел, подходящих под условие: ', a)
- #   for i in a:
-  #      print(i)
-   #     for j in i:
-    #        if int(j,16) % 2 == 0:
-     #           evenNumber = number_to_words(int(j, 16)) #четные цифры выводим словами
-      #          print(evenNumber + ' - четная цифра')
-    
+   
 
 
 
